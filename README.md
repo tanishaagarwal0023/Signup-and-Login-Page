@@ -1,5 +1,5 @@
 This is Sign-up and Login page built with HTML and CSS. 
-The Login page requires a username and password and the Sign-up page requires the full name , email id , usernam eand password.
+The Login page requires a username and password and the Sign-up page requires the full name , email id , username and password.
 HTML Structure: 
 The page contains two forms: one for Signup and one for Login .Each form includes input fields for name, email, username and password, and has a button to submit the form. At the bottom of each form, there's a link that allows users to switch between the signup and login forms. 
 CSS Styling: 
